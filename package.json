@@ -1,0 +1,10 @@
+{
+  "name": "kuvaantirepostdiscord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "looks-same": "^7.2.2",
+    "sse4_crc32": "^6.0.1"
+  }
+}
